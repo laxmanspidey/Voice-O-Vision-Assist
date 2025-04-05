@@ -1,0 +1,4 @@
+!pip install groq
+!pip install faster-whisper
+!pip install gtts
+!pip install mutagen
